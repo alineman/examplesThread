@@ -1,0 +1,9 @@
+/.svn
+/**/.svn
+/.idea
+/target
+/*/target
+*.ipr
+*.iws
+*.iml
+/C:/logs/*
